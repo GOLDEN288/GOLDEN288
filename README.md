@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @GOLDEN288
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Coding 
-- 📫 How to reach me Coding
 
 <!---
 GOLDEN288/GOLDEN288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
